@@ -2,7 +2,7 @@
 
 <center>Pulsar is a safe and private mail client designed to provide a seamless and secure email experience. With Pulsar, you can manage multiple email accounts within a single application, enjoy offline mode functionality, and benefit from built-in AI that helps detect phishing attempts.</center>
 
-**> [!WARNING]
+> [!WARNING]
 > Please keep in mind that Pulsar is at a very early stage of development**
 
 ## Features
