@@ -1,14 +1,11 @@
-<div style="text-align: center;">
-    <h1>Pulsar Mail Client</h1>
-    <p>Pulsar is a safe and private mail client designed to provide a seamless and secure email experience. With Pulsar, you can manage multiple email accounts within a single application, enjoy offline mode functionality, and benefit from built-in AI that helps detect phishing attempts.</p>
-</div>
-
+<h1 style="text-align: center;">💻 Pulsar Mail Client</h1>
+<p style="text-align: center;">Pulsar is a safe and private mail client designed to provide a seamless and secure email experience. With Pulsar, you can manage multiple email accounts within a single application, enjoy offline mode functionality, and benefit from built-in AI that helps detect phishing attempts.</p>
 <br>
 <br>
 > [!WARNING]
-> Please keep in mind that Pulsar is at a very early stage of development**
+> Please keep in mind that Pulsar is at a very early stage of development
 
-## Features
+## 🛠️ Features
 
 - **Multi-Account Support:** Easily manage multiple email accounts within one application, streamlining your email management experience.
 
@@ -22,7 +19,7 @@
 
 - **Create Mail Templates:** Simplify your email workflow by designing mail templates. Craft your message once and use it multiple times, saving time and ensuring consistency across your communications.
 
-## Getting Started
+## 🔄️ Getting Started
 
 To get started with Pulsar, follow these steps:
 
@@ -34,17 +31,17 @@ To get started with Pulsar, follow these steps:
 
 4. **Enjoy:** Once setup is complete, start using Pulsar to manage your emails with ease!
 
-## Contributing
+## 👨‍👩‍👦‍🧒 Contributing
 
 We welcome contributions from the community to help improve Pulsar. If you encounter any issues or have ideas for new features, please [open an issue](https://github.com/your-username/Pulsar/issues) on our GitHub repository.
 
 If you'd like to contribute code, simply fork the repository, make your changes, and submit a pull request. Please ensure your code adheres to our coding standards and includes appropriate documentation.
 
-## License
+## 📰 License
 
 Pulsar is licensed under the [MIT License](LICENSE), allowing you to use, modify, and distribute the software freely.
 
-## Support
+## 📡 Support
 
 For questions, support, or feedback, please contact our team at --support@---.com--.
 
